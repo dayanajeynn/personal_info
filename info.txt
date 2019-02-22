@@ -1,3 +1,4 @@
 Name: Diana Jane Caballero
 Age: 19 years old
 Gender: Female
+Birthday: Feb 15, 2000
